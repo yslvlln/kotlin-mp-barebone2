@@ -1,0 +1,4 @@
+rootProject.name = 'KotlinMPBarebone2'
+
+
+enableFeaturePreview('GRADLE_METADATA')
